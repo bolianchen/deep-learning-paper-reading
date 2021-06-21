@@ -3,7 +3,7 @@
 [[<ins>Paper link</ins>]](https://arxiv.org/abs/1406.2283)
 
 **<ins>Contributions:</ins>**  
-* a pilot paper to tackle the depth estimation on a single monocular image, where the inversion from 2D pixels to the corresponding 3D object points is not unique
+* it is one of the pilot papers to tackle the supervised depth estimation on monocular images, that is intrinsically ill-posed problem because the inversion from a 2D image to the corresponding objects in the 3D world is not unique.
 * a scale-invariant error
 
 
@@ -18,3 +18,9 @@ The absolute scale of a scene is intrinsically ambiguous by only looking at a si
 
 
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq2.png" width="1000">
+
+<img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq3.png" width="700">
+
+<img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/training_loss.png" width="700">
+
+<img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eval_metrics.png" width="1000">
