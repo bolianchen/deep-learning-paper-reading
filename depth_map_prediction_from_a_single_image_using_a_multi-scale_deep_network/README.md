@@ -35,7 +35,7 @@ The absolute scale of a scene is intrinsically ambiguous by only looking at a si
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq3.png" width="700">
 
 
-
+## Training Loss:
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq4.png" width="700">
 
 
@@ -44,4 +44,4 @@ The absolute scale of a scene is intrinsically ambiguous by only looking at a si
 
 
 
-**<ins>KITTI Dataset:</ins>**  
+## KITTI Dataset:
