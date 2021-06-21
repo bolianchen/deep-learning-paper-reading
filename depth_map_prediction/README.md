@@ -1,0 +1,1 @@
+* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network, *David Eigen,  Advances in Neural Information Processing Systems, 2014* [[summary]](https://github.com/thtang/aMMAI2018-paper-summary/tree/master/Iterative%20Quantization%20A%20Procrustean%20Approach%20to%20Learning%20Binary%20Codes)
