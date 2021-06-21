@@ -2,4 +2,4 @@
 
 [[<ins>paper link</ins>]](https://arxiv.org/abs/1406.2283)
 
-<ins>contributions:</ins> 
+<ins>Contributions:</ins> 
