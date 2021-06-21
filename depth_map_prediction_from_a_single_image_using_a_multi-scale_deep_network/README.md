@@ -8,20 +8,31 @@
 * introduction of a scale-invariant error to encourage the deep networks weight more on the correctness of relative depth structure than the absolute scale
 
 
+
 **<ins>Model Architecture:</ins>**  
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/fig1_reorganized.png" width="1128">
+
 
 
 **<ins>About the Scale-Invariant Error:</ins>**  
 The absolute scale of a scene is intrinsically ambiguous by only looking at a single image.
 
+
+
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq1.png" width="1000">
+
 
 
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq2.png" width="1000">
 
+
+
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq3.png" width="700">
 
+
+
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eq4.png" width="700">
+
+
 
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/eval_metrics.png" width="1000">
