@@ -2,7 +2,7 @@
 
 [[<ins>Paper link</ins>]](https://arxiv.org/abs/1406.2283)
 
-### **Contributions:**
+## Contributions:
 
 **<ins>Contributions:</ins>**  
 * one of the pilot papers to tackle the supervised depth estimation on monocular images, that is intrinsically ill-posed problem because the inversion from a 2D image to the corresponding objects in the 3D world is not unique.
