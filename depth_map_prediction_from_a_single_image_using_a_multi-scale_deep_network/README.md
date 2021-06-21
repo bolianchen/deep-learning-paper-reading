@@ -11,4 +11,4 @@
 <img src="https://github.com/bolianchen/deep-learning-paper-reading/blob/main/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network/images/fig1_reorganized.png" width="1128">
 
 
-<ins>Scale-Invariant Error:</ins>
+<ins>Concept of Scale-Invariant Error:</ins>
