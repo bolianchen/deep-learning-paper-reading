@@ -1,1 +1,1 @@
-[paper link](https://arxiv.org/abs/1406.2283)
+[[paper link]](https://arxiv.org/abs/1406.2283)
