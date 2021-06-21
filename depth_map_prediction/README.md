@@ -1,1 +1,1 @@
-* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network, *David Eigen, NIPS 2014* [[my summary]](https://github.com/bolianchen/deep-learning-paper-reading/tree/main/depth_map_prediction/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network)
+* [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network, *David Eigen, NIPS 2014*](https://github.com/bolianchen/deep-learning-paper-reading/tree/main/depth_map_prediction/depth_map_prediction_from_a_single_image_using_a_multi-scale_deep_network)
